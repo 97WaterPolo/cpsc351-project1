@@ -1,10 +1,11 @@
 # cpsc351_project1_ortiz-sigler-singh-torres
 
-- Spring 2019 CPSC 351-03/0X Project 1
+- Spring 2019 CPSC 351-02/0X Project 1
 - Collaborators
+  - Jesus Guzman-Torres- 889792628 - jesusguzman-torres@csu.fullerton.edu
+  - Dan Ortiz - 890677917 -dbortiz@csu.fullerton.edu
   - Alexander Sigler - 890457906 - 97WaterPolo@csu.fullerton.edu
   - Angad Singh - 890768880 - angadsingh@csu.fullerton.edu
-  - Jesus Guzman-Torres- 889792628 - jesusguzman-torres@csu.fullerton.edu
 - C++
 - How to execute and run:
   - Download and unzip file
