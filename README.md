@@ -22,3 +22,7 @@ References:
 - https://www.geeksforgeeks.org/ipc-using-message-queues/
 - http://beej.us/guide/bgipc/output/html/multipage/shm.html
 - http://beej.us/guide/bgipc/output/html/multipage/mq.html
+
+
+[Design of Assignment 1](https://docs.google.com/document/d/1G1sU4Dnf5P--7wQMP-gd6XNtvhiB7Cwnx0G4pa74zoY/edit?usp=sharing)
+**Photos of the program running can be found in our design document**
